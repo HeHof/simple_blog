@@ -1,0 +1,60 @@
+contact:
+    title: Kontakt
+    subtitle: Melden sie sich hier an, um unseren Newsletter zu abonnieren.
+
+home:
+    title: Bloq - Dein Leben, teilen
+    subtitle: Die einfachste Lösung ist oft auch die schönste
+
+random_post:
+    title: Ein zufälliger Beitrag
+    subtitle: Lass dich überraschen!
+
+about:
+    title: Über uns
+    subtitle: Erfahre mehr über uns
+
+register:
+    title: Registrieren
+    subtitle: Melde dich hier an, um ein Teil von bloq zu werden
+
+login:
+    title: Login
+    subtitle:  Nur du besitzt den richtigen Schlüssel
+
+cta:
+    submit: Senden
+
+label:
+    first_name: Dein Vorname
+    last_name: Dein Nachname
+    user_name_choice: Gewünschter Nutzernamen
+    password: Wähle ein Passwort
+    repeat_password: Gib dein Passwort bitte erneut ein
+    name: Dein Name
+    email: Deine Email
+    phone: Deine Telefonnummer
+    message: Deine Nachricht
+    password_login: Dein Passwort
+    empty_username: Dein Nutzername
+    username: Dein Nutzername
+
+
+
+
+flashbag:
+    newsletter_success: Super! Du bekommst nun unseren Newsletter
+    registration_success: Vielen Dank für deine Registrierung!
+
+swiftmessage:
+    subject: Neuigkeitenbrief von bloq
+    body: Vielen Dank %name% für dein Interesse. Du erhältst ab jetzt den Newsletter
+
+navigation:
+    home: Start
+    contact: Kontakt
+    about: Über uns
+    random_post: Zufallsbeitrag
+    register: Registrieren
+    login: Anmelden
+

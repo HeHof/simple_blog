@@ -1,0 +1,13 @@
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+    prefix: /{_locale}
+    requirements:
+        _locale: en|de
+
+route:
+    path: /
+    defaults:
+        _controller: FrameworkBundle:Redirect:redirect
+        route: index
+        permanent: true

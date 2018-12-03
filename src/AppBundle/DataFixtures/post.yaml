@@ -1,0 +1,7 @@
+AppBundle\Entity\Post:
+    post{1..10}:
+        title: <catchPhrase()>
+        content: <realText()>
+        category: <word(1)>
+        author: <name()>
+        createdAt: <(new \DateTimeImmutable("now"))>

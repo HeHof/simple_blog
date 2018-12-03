@@ -1,0 +1,20 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}LOGIN{% endblock title %}
+{% block bg_image %} {{ asset('img/login-bg.jpg') }} {% endblock bg_image %}
+{% block site_heading %} {{ 'login.title'|trans }} {% endblock %}
+{% block sub_heading %} {{ 'login.subtitle'|trans }} {% endblock %}
+{% block body %}
+    hallo
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                {{ form_start(form) }}
+                {{ form_widget(form) }}
+                <input type="submit" class="btn-secondary btn" value="Submit" />
+                {{ form_end(form) }}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+

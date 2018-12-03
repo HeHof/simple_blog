@@ -1,0 +1,57 @@
+contact:
+    title: Contact
+    subtitle: Subscribe here to receive our newsletter
+
+home:
+    title: Bloq - share your life
+    subtitle: the simple solutions are beautiful
+
+random_post:
+    title: A random post
+    subtitle: Be surprised
+
+about:
+    title: About
+    subtitle: Get more information
+
+register:
+    title: Registration
+    subtitle: Sign in here to be a part of bloq
+
+login:
+    title: Login
+    subtitle: Use your secret knowledge to enter
+
+cta:
+    submit: Send
+
+label:
+    first_name: Your First Name
+    last_name: Your Last Name
+    user_name_choice: Choose A User Name
+    password: Choose A Password
+    repeat_password: Please repeat your password
+    name: Your name
+    email: Your email
+    phone: Your phone number
+    message: Your message
+    password_login: Your password
+    empty_username: Your username
+    username: Your username
+
+flashbag:
+    newsletter_success: Nice! You'll receive our newsletter now!
+    registration_success: Thank you for subscribing!
+
+
+swiftmessage:
+    subject: Newsletter from bloq
+    body: Cool to have you on board. And thank you for subscribing!
+
+navigation:
+    home: Home
+    contact: Contact
+    about: About
+    random_post: Random Post
+    register: Register
+    login: Login
